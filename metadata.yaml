@@ -1,0 +1,35 @@
+_repo: Spanish-Tales-for-Beginners_36805
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Reinhardt, Louise
+    alias: Reinhardt, Luisa
+    birthdate: 1866
+    gutenberg_agent_id: '36385'
+    url: http://www.gutenberg.org/2009/agents/36385
+covers:
+- cover_type: archival
+  image_path: 36805-h/images/cover.jpg
+creator:
+  editor:
+    agent_name: Hills, E. C. (Elijah Clarence)
+    alias: Hills, Elijah Clarence
+    birthdate: 1867
+    deathdate: 1932
+    gutenberg_agent_id: '6455'
+    url: http://www.gutenberg.org/2009/agents/6455
+description: ''
+gutenberg_issued: '2011-07-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36805'
+  lccn: '19010690'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spanish language -- Readers'
+- !lcc 'PC'
+title: Spanish Tales for Beginners
+url: http://www.gutenberg.org/ebooks/36805
